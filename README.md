@@ -104,11 +104,7 @@ venkatasreenivas2006@gmail.com
 
 # 🌐 Live Demo
 
-Add your GitHub Pages link after deployment.
-
-```bash
-https://yourusername.github.io/portfolio/
-```
+https://venkata-sreenivas.github.io/Portfolio/
 
 ---
 
